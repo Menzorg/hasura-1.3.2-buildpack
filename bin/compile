@@ -16,4 +16,4 @@ function topic() {
 }
 
 topic "Move bin"
-cp BP_DIR/graphql-engine BUILD_DIR/graphql-engine
+cp $BP_DIR/graphql-engine $BUILD_DIR/graphql-engine
